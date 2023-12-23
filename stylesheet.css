@@ -7,7 +7,7 @@ body {
   padding-left: 250px;
   padding-right: 250px;
   margin: 100px;
-  width: 1300px;
+  width: 1280px;
 }
 
 .info {
@@ -50,7 +50,7 @@ a {
 
 .qr {
   position:absolute;
-  left:300px;
+  left:350px;
   top:50px;
   width: 175px;
   height: 230px;
