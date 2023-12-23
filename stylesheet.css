@@ -48,6 +48,14 @@ a {
   list-style: none;
 }
 
+.qr {
+  position:absolute;
+  left:300px;
+  top:50px;
+  width: 175px;
+  height: 230px;
+}
+
 .line {
   border: 3px solid black;
   width: 100%;
